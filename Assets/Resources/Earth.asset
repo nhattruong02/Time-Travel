@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b58bdd02979bbe4ea9a0ee4f03bcd48, type: 3}
+  m_Name: Earth
+  m_EditorClassIdentifier: 
+  nameQ: "T\xECm cung t\xEAn"
+  description: "T\xECm cung t\xEAn"
+  startDialogue:
+    lines:
+    - "H\xE3y gi\xFAp ta t\xECm l\u1EA1i cung t\xEAn"
+    - "\u0110\u1EC3 ta ch\u1ED1ng l\u1EA1i s\u1EF1 \u0111\xF4 h\u1ED9 c\u1EE7a nh\xE0
+      \u0110\xF4ng H\xE1n"
+  inprogessDialogue:
+    lines:
+    - Hay di tim qua tao
+  completedDialogue:
+    lines:
+    - "C\u1EA3m \u01A1n"
+  requiredItem: {fileID: 11400000, guid: a515370313e29de4db1b19131a66c01c, type: 2}
+  rewardItem: {fileID: 11400000, guid: a515370313e29de4db1b19131a66c01c, type: 2}

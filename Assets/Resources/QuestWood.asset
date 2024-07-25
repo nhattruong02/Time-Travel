@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b58bdd02979bbe4ea9a0ee4f03bcd48, type: 3}
+  m_Name: QuestWood
+  m_EditorClassIdentifier: 
+  nameQ: "B\xF3p n\xE1t tr\xE1i cam"
+  description: "B\xF3p n\xE1t tr\xE1i cam"
+  startDialogue:
+    lines:
+    - "Th\xE1ng 10 n\u0103m 1282"
+    - "Vua Tr\u1EA7n Nh\xE2n T\xF4ng m\u1EDF h\u1ED9i ngh\u1ECB B\xECnh Than"
+    - "Quan vi\xEAn b\xE0n k\u1EBF ch\u1ED1ng qu\xE2n Nguy\xEAn"
+    - "Trong l\xF2ng ta c\u1EA3m th\u1EA5y h\u1ED5 th\u1EB9n, ph\u1EABn kh\xEDch"
+  inprogessDialogue:
+    lines:
+    - "H\xE3y gi\xFAp ta t\xECm l\u1EA1i tr\xE1i cam"
+  completedDialogue:
+    lines:
+    - "C\u1EA3m \u01A1n !!!"
+    - "Ta \u0111\xE3 th\u1EA5y \u0111\u1EE1 h\u01A1n r\u1ED3i"
+  requiredItem: {fileID: 11400000, guid: 8a08b3cf9246c844ebb4bf8837f65b79, type: 2}
+  rewardItem: {fileID: 11400000, guid: 8a08b3cf9246c844ebb4bf8837f65b79, type: 2}
