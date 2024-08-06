@@ -56,7 +56,7 @@ MonoBehaviour:
   - '{}'
   - '{}'
   - '{}'
-  - '{}'
+  - '{"m_ShowAlternatingRowBackgrounds":0,"serializedVirtualizationData":{"scrollOffset":{"x":0.0,"y":0.0},"firstVisibleIndex":0,"contentPadding":0.0,"contentHeight":41.599998474121097,"anchoredItemIndex":0,"anchorOffset":0.0}}'
   - '{}'
   - '{}'
   - '{}'

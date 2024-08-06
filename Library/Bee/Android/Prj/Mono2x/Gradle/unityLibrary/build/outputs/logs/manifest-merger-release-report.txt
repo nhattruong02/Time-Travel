@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-52
+	android:glEsVersion
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-88
+	android:required
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:61-85
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-99
+	android:required
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:72-96
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-108
+	android:required
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:81-105
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-80
+application
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-24:17
+	android:extractNativeLibs
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:16-48
+	android:isGame
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:49-70
+meta-data#unity.splash-mode
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:5-69
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:49-66
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-74
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:51-71
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-78
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:55-75
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-83
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:60-80
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-59
+meta-data#unity.auto-report-fully-drawn
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:61-81
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-23:16
+	android:screenOrientation
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:111-152
+	android:launchMode
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:153-184
+	android:hardwareAccelerated
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:401-436
+	android:exported
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:437-460
+	android:resizeableActivity
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:367-400
+	android:configChanges
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:185-366
+	android:theme
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:69-110
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:7-18:23
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:9-78
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:19-75
+action#android.intent.action.MAIN
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:17-58
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:7-82
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:59-79
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:18-58
+meta-data#WindowManagerPreference:FreeformWindowSize
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-128
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:76-125
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-75
+meta-data#WindowManagerPreference:FreeformWindowOrientation
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-145
+	android:value
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:83-142
+	android:name
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-82
+layout
+ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-129
+	android:minWidth
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:76-100
+	android:minHeight
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:101-126
+	android:defaultHeight
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:45-75
+	android:defaultWidth
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:15-44
+uses-sdk
+INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TRUONG\Desktop\Time-Travel\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
