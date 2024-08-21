@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b58bdd02979bbe4ea9a0ee4f03bcd48, type: 3}
+  m_Name: QuestWater
+  m_EditorClassIdentifier: 
+  nameQ: "Ki\u1EBFm c\u1EE7a Ng\xF4 Quy\u1EC1n"
+  description: "Ki\u1EBFm c\u1EE7a Ng\xF4 Quy\u1EC1n"
+  startDialogue:
+    lines:
+    - "Nh\xE0 \u0110\u01B0\u1EDDng \u1EDF Trung Qu\u1ED1c cai tr\u1ECB n\u01B0\u1EDBc
+      ta"
+    - "H\xE3y gi\xFAp ta t\xECm l\u1EA1i ki\u1EBFm"
+    - "\u0110\u1EC3 ta c\xF3 th\u1EC3 \u0111\xE1nh b\u1EA1i qu\xE2n Nam H\xE1n"
+    - "H\xE3y gi\xFAp v\xE0 \u0111\u01B0a ki\u1EBFm cho ta \u1EDF s\xF4ng B\u1EA1ch
+      \u0110\u1EB1ng"
+  inprogessDialogue:
+    lines:
+    - "H\xE3y \u0111i t\xECm ki\u1EBFm c\u1EE7a Ng\xF4 Quy\u1EC1n"
+  completedDialogue:
+    lines:
+    - Day la phan thuong cua ban
+  requiredItem: {fileID: 11400000, guid: 0e66f4b7aa199804f84ff235fcb95d10, type: 2}
+  rewardItem: {fileID: 11400000, guid: 0e66f4b7aa199804f84ff235fcb95d10, type: 2}

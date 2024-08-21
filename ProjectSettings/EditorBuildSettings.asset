@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 58c491bd6dbf2fa4e9684cd1cad74883
+  - enabled: 1
+    path: Assets/Scenes/FireScreen.unity
+    guid: fc34ed1971d2bd540bd60b5462c25a49
+  - enabled: 1
+    path: Assets/Scenes/EarthScreen.unity
+    guid: a8d5ace1363bc9149b46b1d1e0207fda
+  - enabled: 1
+    path: Assets/Scenes/MetalScreen.unity
+    guid: 4710d601018ea174e9c466b800007fa1
+  - enabled: 1
+    path: Assets/Scenes/VillageScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FailScreen.unity
+    guid: 6d41fd0dd0aefbd4199adcffbb2382fd
+  - enabled: 1
+    path: Assets/Scenes/WaterScreen.unity
+    guid: 7fa5705ab622f214dab49dcc61f34cbb
+  - enabled: 1
+    path: Assets/Scenes/WoodScreen.unity
+    guid: 5cb5037aa299b7545abf31819fca6851
+  - enabled: 1
+    path: Assets/Scenes/FinishScreen.unity
+    guid: 1712ebdd83f5024498cecf16bab2aae2
+  m_configObjects: {}
