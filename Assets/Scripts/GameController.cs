@@ -36,14 +36,6 @@ public class GameController : MonoBehaviour
         else if (state == GameState.Dialog) {
             DialogManager.Instance.HandleUpdate();
         }
-/*        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            SavingSystem.i.Save("saveSlot1");
-        }
-        if (Input.GetKeyDown(KeyCode.N))
-        {
-            SavingSystem.i.Load("saveSlot1");
-        }*/
     }
     public void OpenBag()
     {
